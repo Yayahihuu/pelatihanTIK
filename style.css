@@ -1,14 +1,14 @@
 body {
    background-color: #BC8F8F;  /* RosyBrown */
    font-family: Arial, sans-serif; /* Jenis huruf yang bersih dan mudah dibaca */
-   color: #E9967A; /* Warna teks utama (DarkSalmon) */
+   color: #D8BFD8; /* Warna teks utama (Thistle) */
 }
 
 .kartu-profil {
     width: 300px;
     margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
     padding: 20px;
-    background-color: Peru;
+    background-color: white;
     border-radius: 15px; /* Membuat sudut menjadi melengkung */
     box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Efek bayangan */
     text-align: center; /* Menengah semua teks di dalam kartu */
